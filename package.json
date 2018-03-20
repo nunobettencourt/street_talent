@@ -1,9 +1,9 @@
 {
-  "name": "simpleReactReduxStarter",
+  "name": "street_talent",
   "version": "1.0.0",
-  "description": "simpleReactReduxStarter",
+  "description": "Street Talent",
   "main": "index.js",
-  "repository": "git@github.com/nunobettencourt/simpleReactReduxStarter",
+  "repository": "git@github.com/nunobettencourt/street_talent",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "test": "mocha --require babel-core/register --require ./test/test_helper.js --recursive ./test",
